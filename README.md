@@ -13,7 +13,7 @@ make demo
 
 | Metrica | before/ | after/ |
 |---------|---------|--------|
-| Righe conftest | ~90 | ~30 |
+| Righe conftest | ~90 | ~50 |
 | Hack (sys.modules, monkey-patch) | 6 | 0 |
 | Side-effect all'import | 3 (Mongo, Kafka, thread) | 0 |
 | Assertion nei test | deboli (solo status code) | forti (contenuto + effetti) |

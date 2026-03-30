@@ -1,6 +1,6 @@
 """Conftest pulito: mock iniettati, nessun hack.
 
-30 righe vs 90 del before. Zero sys.modules, zero monkey-patch.
+~50 righe vs ~90 del before. Zero sys.modules, zero monkey-patch.
 """
 
 import pytest
