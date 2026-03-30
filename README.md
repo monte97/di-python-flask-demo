@@ -42,8 +42,3 @@ make clean           # Rimuove cache
 - `pip install -r requirements.txt` (Flask, pytest, mutmut 2.x)
 
 Nessuna dipendenza esterna (pymongo, confluent-kafka): il before/ simula i client con classi fake per isolare il punto del demo.
-
-## Riferimenti
-
-- Post LinkedIn: <!-- TODO: inserire URL -->
-- Articolo completo: <!-- TODO: inserire URL montelli.dev -->
